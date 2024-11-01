@@ -1,0 +1,22 @@
+
+.button-set-thumbnail
+{
+    background: white;
+    margin: 10px;
+}
+.button-set-thumbnail:hover
+{
+    cursor: pointer;
+}
+.wrap-plugin
+{
+    padding: 50px;
+}
+.wrap-plugin h1
+{
+    color: #425f9a;
+}
+.green
+{
+    color: green;
+}
